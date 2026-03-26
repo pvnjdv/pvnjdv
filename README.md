@@ -74,7 +74,7 @@
 ## 🌿 `~/contributions --graph`
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hackydaddy&theme=high-contrast&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ffffff&area=true&hide_border=true&area_color=00ff4120" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pvnjdv&theme=high-contrast&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ffffff&area=true&hide_border=true&area_color=00ff4120" />
 </div>
 
 ---
