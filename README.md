@@ -58,14 +58,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackydaddy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&ring_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvnjdv&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&ring_color=00ff41"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackydaddy&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvnjdv&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackydaddy&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00ff41" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pvnjdv&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00ff41" />
 </div>
 
 ---
@@ -83,7 +83,7 @@
 ## 🏆 `~/trophies --all`
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=hackydaddy&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=pvnjdv&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
 </div>
 
 ---
@@ -93,9 +93,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackydaddy/hackydaddy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackydaddy/hackydaddy/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hackydaddy/hackydaddy/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
