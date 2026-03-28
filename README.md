@@ -63,15 +63,6 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 🌿 `~/contributions --graph`
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pvnjdv&theme=high-contrast&bg_color=0d0d0d&color=00ff41&line=39ff14&point=ffffff&area=true&hide_border=true&area_color=00ff4120" />
-</div>
-
----
-
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 ## 🐍 `~/contributions --consume`
 
@@ -204,20 +195,11 @@
 ---
 
 <!-- CONTRIBUTION HEATMAP EXTRA -->
-## 📈 `~/metrics --full`
-
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvnjdv&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff41&height=120&section=footer&text=hack+the+planet+🌍&fontSize=24&fontColor=0d0d0d&animation=twinkling&fontAlignY=65"/>
-
----
 
 <details>
 <summary>⏱️ <strong>How to setup WakaTime coding stats</strong></summary>
