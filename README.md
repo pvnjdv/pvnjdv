@@ -72,15 +72,6 @@
 
 ---
 
-<!-- GITHUB TROPHIES -->
-## 🏆 `~/trophies --all`
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=pvnjdv&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-</div>
-
----
-
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 ## 🐍 `~/contributions --consume`
 
