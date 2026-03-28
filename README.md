@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvnjdv&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&ring_color=00ff41"/>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvnjdv&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9"/>
 
@@ -208,19 +208,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-</div>
-
----
-
-<!-- SPOTIFY NOW PLAYING (optional) -->
-## 🎵 `~/now-playing`
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=00ff41)](https://open.spotify.com)
-
-> 🎧 **Setup:** Deploy [novatorem](https://github.com/novatorem/novatorem) with your Spotify credentials
-
 </div>
 
 ---
