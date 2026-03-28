@@ -2,11 +2,10 @@
 <!-- ANIMATED TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hacking+the+future+with+AI+%F0%9F%A4%96;%3E+Building+secure+%26+scalable+systems+%F0%9F%94%90;%3E+Turning+coffee+into+clean+code+%E2%98%95;%3E+LLMs+%7C+Full-Stack+%7C+Red+Team+%F0%9F%92%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hacking+the+future+with+AI+%F0%9F%A4%96;%3E+Building+secure+%26+scalable+systems+%F0%9F%94%90;%3E+Turning+coffee+into+clean+code" alt="Typing SVG" />
   </a>
+  
 </div>
-<br>
-<br/>
 
 <!-- SOCIAL BADGES - GLOWING STYLE -->
 <div align="center">
