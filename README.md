@@ -1,9 +1,3 @@
-<div align="center">
-
-<!-- MATRIX RAIN HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=PAVAN%20JADHAV&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=AI-Driven%20Full-Stack%20%7C%20Cybersecurity%20%7C%20LLM%20Engineering&descAlignY=75&descAlign=50&descSize=16&descColor=39ff14" />
-
-</div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
@@ -11,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hacking+the+future+with+AI+%F0%9F%A4%96;%3E+Building+secure+%26+scalable+systems+%F0%9F%94%90;%3E+Turning+coffee+into+clean+code+%E2%98%95;%3E+LLMs+%7C+Full-Stack+%7C+Red+Team+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </div>
-
+<br>
 <br/>
 
 <!-- SOCIAL BADGES - GLOWING STYLE -->
