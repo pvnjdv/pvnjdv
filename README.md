@@ -99,8 +99,6 @@
   </picture>
 </div>
 
-> ⚠️ **Setup Snake:** Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo → [See setup below](#snake-setup)
-
 ---
 
 <!-- CURRENTLY WORKING ON -->
@@ -249,47 +247,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff41&height=120&section=footer&text=hack+the+planet+🌍&fontSize=24&fontColor=0d0d0d&animation=twinkling&fontAlignY=65"/>
 
 ---
-
-<!-- SNAKE SETUP INSTRUCTIONS -->
-<a name="snake-setup"></a>
-<details>
-<summary>🐍 <strong>How to setup the Snake Contribution Animation</strong></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo (`hackydaddy/hackydaddy`):
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 <details>
 <summary>⏱️ <strong>How to setup WakaTime coding stats</strong></summary>
