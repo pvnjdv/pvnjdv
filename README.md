@@ -63,9 +63,6 @@
 
 ---
 
----
-
-
 <!-- TECH STACK - VISUAL TILES -->
 ## 🛠️ `~/tech-stack --list-all`
 
@@ -141,29 +138,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-</div>
-
----
-
-<!-- WakaTime Stats (optional - needs WakaTime setup) -->
-## ⏱️ `~/wakatime --weekly`
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-> 🔧 **Setup WakaTime** to show live coding hours here!  
-> Connect at [wakatime.com](https://wakatime.com) → add `waka-readme` GitHub Action
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<!-- RANDOM DEV QUOTE -->
-## 💬 `~/fortune --dev`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 </div>
 
 ---
