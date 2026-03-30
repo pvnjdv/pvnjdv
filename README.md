@@ -40,7 +40,7 @@
   → Integrating AI into everything
   → Breaking things ethically 💀
 ```
-
+---
 <br clear="right"/>
 
 <!-- GITHUB STATS TRIO -->
