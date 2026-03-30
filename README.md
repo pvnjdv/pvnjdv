@@ -43,10 +43,7 @@
 
 <br clear="right"/>
 
----
-
 <!-- GITHUB STATS TRIO -->
-## 📊 `~/stats --verbose`
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pvnjdv&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=FC2B00" />
 </div>
