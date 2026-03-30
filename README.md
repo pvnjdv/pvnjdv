@@ -149,33 +149,6 @@
 
 </div>
 
-<details>
-<summary>⏱️ <strong>How to setup WakaTime coding stats</strong></summary>
-
-1. Create account at [wakatime.com](https://wakatime.com)
-2. Install WakaTime plugin in your IDE
-3. Add `WAKATIME_API_KEY` to your GitHub repo secrets
-4. Create `.github/workflows/waka-readme.yml`:
-
-```yaml
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-```
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%" />
