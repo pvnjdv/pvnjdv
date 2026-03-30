@@ -63,20 +63,6 @@
 
 ---
 
-<!-- CURRENTLY WORKING ON -->
-## ⚡ `~/current --status`
-
-<div align="center">
-
-| 🚧 Building | 📚 Learning | 🎯 Goals 2025 |
-|:---:|:---:|:---:|
-| AI-Powered Full-Stack SaaS | Advanced LLM Fine-tuning | Ship 5 production AI apps |
-| LLM Orchestration Pipelines | CUDA & GPU Optimization | Crack CEH / OSCP |
-| Security Audit Toolkit | Agentic AI Frameworks | 1K+ GitHub Stars |
-| RAG Systems with Vector DBs | Rust for Systems Programming | Open Source Contribution |
-
-</div>
-
 ---
 
 
