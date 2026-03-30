@@ -147,8 +147,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvnjdv&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%" />
