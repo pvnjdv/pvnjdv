@@ -42,7 +42,6 @@
 ```
 <br clear="right"/>
 
-<!-- GITHUB STATS TRIO -->
 <!-- STREAK STATS + ACTIVITY GRAPH -->
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -73,5 +72,3 @@
 | 🔐 **Security & Hardware** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-square&logo=cisco&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) |
 
 </div>
-
----
