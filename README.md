@@ -44,22 +44,25 @@
 <br clear="right"/>
 
 <!-- GITHUB STATS TRIO -->
+<!-- GITHUB STATS + SNAKE -->
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pvnjdv&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=FC2B00" />
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvnjdv&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF41&currStreakNum=FF0000&sideNums=FF0000&totalDotCom=FF0000" width="520" />
+      </td>
+      <td valign="middle" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake.svg" />
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake.svg" width="440" height="200" style="display:block;" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-## 🐍 `~/contributions --consume`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pvnjdv/pvnjdv/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ---
 
