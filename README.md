@@ -64,8 +64,6 @@
 ---
 
 <!-- TECH STACK - VISUAL TILES -->
-## 🛠️ `~/tech-stack --list-all`
-
 <div align="center">
 
 | Category | Technologies |
