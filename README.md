@@ -49,11 +49,6 @@
       <td valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvnjdv&theme=matrix&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9&stroke=00FF41&currStreakNum=FF0000&sideNums=FF0000&totalDotCom=FF0000" width="520" />
       </td>
-      <td valign="middle" align="center">
-        <a href="https://github.com/pvnjdv/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=pvnjdv&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true" width="440" height="300" style="display:block; object-fit:fill;" />
-        </a>
-      </td>
     </tr>
   </table>
 </div>
