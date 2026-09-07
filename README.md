@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hackydaddy-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/hackydaddy)
 [![Instagram](https://img.shields.io/badge/Instagram-pavanjadhavinsta-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/pavanjadhavinsta)
 [![Gmail](https://img.shields.io/badge/Gmail-pavanmangeshjadhav-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:pavanmangeshjadhav@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=hackydaddy&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&base=19337)](https://github.com/hackydaddy)
 
 </div>
 
